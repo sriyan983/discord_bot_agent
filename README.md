@@ -1,5 +1,5 @@
-Discord Ops Bot – Setup & Usage
-
+<img width="1917" height="962" alt="Screenshot from 2025-12-23 11-08-56" src="https://github.com/user-attachments/assets/bdd0d6c4-e4b2-454b-976b-7c80d244bdec" />**Discord Ops Bot – Setup & Usage
+**
 This document describes how to set up a Discord bot integrated with an LLM and verify that it responds correctly inside a Discord channel.
 
 Setup Instructions
@@ -18,6 +18,8 @@ Create a new server (private or internal)
 Inside the server, create a text channel
 
 Example: #ops
+
+![Uploading Screenshot from 2025-12-23 09-39-24.png…]()
 
 4. Create a Discord Application (Bot)
 
@@ -58,6 +60,9 @@ Send Messages
 Read Message History
 
 Save changes.
+
+<img width="1943" height="962" alt="Screenshot from 2025-12-23 09-44-44" src="https://github.com/user-attachments/assets/de84d8bb-3e13-4f40-9547-67fe1ce638da" />
+
 
 8. Configure Environment Variables
 
@@ -111,3 +116,6 @@ Recommended Actions:
 - Review downtime logs
 - Validate shift handover
 - Escalate if recurrence persists
+
+<img width="1917" height="962" alt="Screenshot from 2025-12-23 11-08-56" src="https://github.com/user-attachments/assets/0bdab9e2-6145-4387-a747-2dcfe44b3cc1" />
+
