@@ -1,7 +1,9 @@
-**
-This document describes how to set up a Discord bot integrated with an LLM and verify that it responds correctly inside a Discord channel.
 
+**Discord Ops Bot – Setup & Usage**
+
+This document describes only the setup steps and example usage for running a Discord bot integrated with an LLM.
 Setup Instructions
+
 1. Create and Verify Discord Account
 
 Sign up and verify your account at https://discord.com
