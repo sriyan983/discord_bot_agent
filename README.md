@@ -1,4 +1,3 @@
-<img width="1917" height="962" alt="Screenshot from 2025-12-23 11-08-56" src="https://github.com/user-attachments/assets/bdd0d6c4-e4b2-454b-976b-7c80d244bdec" />**Discord Ops Bot – Setup & Usage
 **
 This document describes how to set up a Discord bot integrated with an LLM and verify that it responds correctly inside a Discord channel.
 
@@ -80,6 +79,7 @@ docker run -it --env-file .env discord-ops-bot
 11. Start the Bot Inside the Container
 python discord_hooks.py
 
+<img width="1917" height="962" alt="Screenshot from 2025-12-23 11-08-56" src="https://github.com/user-attachments/assets/bdd0d6c4-e4b2-454b-976b-7c80d244bdec" />**Discord Ops Bot – Setup & Usage
 
 You should see:
 
